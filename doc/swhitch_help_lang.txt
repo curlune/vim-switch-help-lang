@@ -1,0 +1,24 @@
+*switch_help_lang.txt* Switch to help for other languages
+
+Author: curlune <curlune+gh@gmail.com>
+License: MIT
+
+USAGE                                                 |switch_help_lang_usage|
+COMMAND                                             |switch_help_lang_command|
+
+==============================================================================
+USAGE                                                 *switch_help_lang_usage*
+
+   execute command on help window.
+>
+       :SwitchHelpLang
+<
+
+COMMAND                                             *switch_help_lang_command*
+
+:SwitchHelpLang                                              *:SwitchHelpLang*
+
+    Switch to help for other languages.
+    Select languages from |:helplang|
+
+vim:tw=78:ts=8:ft=help:norl:

@@ -1,0 +1,24 @@
+*switch_help_lang.txt* 他の言語のヘルプに切り替える
+
+Author: curlune <curlune+gh@gmail.com>
+License: MIT
+
+使い方                                                |switch_help_lang_usage|
+コマンド                                            |switch_help_lang_command|
+
+==============================================================================
+使い方                                                *switch_help_lang_usage*
+
+ヘルプウィンドウでコマンドを実行します。
+>
+    :SwitchHelpLang
+<
+
+コマンド                                            *switch_help_lang_command*
+
+:SwitchHelpLang                                              *:SwitchHelpLang*
+
+    他の言語のヘルプに切り替えます。
+    言語は |:helplang| から選択されます。
+
+vim:tw=78:ts=8:ft=help:norl:
